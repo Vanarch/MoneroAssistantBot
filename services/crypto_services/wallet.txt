@@ -1,0 +1,18 @@
+*Software:*
+1. [Monero GUI Wallet](https://www.getmonero.org/downloads/#gui) — Monero's official desktop client available for Windows, MAC and Linux
+2. [Monero CLI Wallet](https://www.getmonero.org/downloads/#cli) — The official command line wallet for Monero. Highly customizable and includes various analysis tools
+3. [Cake Wallet](https://cakewallet.com) — One of the best wallets for iOS with built-in exchange features 
+4. [Monerujo](https://monerujo.io) — Android lightweight wallet. It's an open-source wallet that uses remote nodes to synchronize with the blockchain
+5. [Exodus](https://www.exodus.io) — Multicurrency wallet for desktop and mobile with built-in exchange
+6. [MyMonero](https://mymonero.com) — A web-based XMR cryptocurrency wallet. It is a lightweighted, secure and easy to use
+7. [Guarda Wallet](https://guarda.com) — Non-custodial multiplatform solution. The user’s personal data are not stored by the company
+8. [Coinomi](https://coinomi.com) — Security-oriented, multicurrency wallet for both mobile & desktop that provides native support and true ownership for more than 125 blockchains  
+9. [Edge](https://edge.app) — Very safe, secure and user-friendly mobile wallet. Available for iOS and Android
+
+*Hardware:*
+1. [Ledger Nano X](https://shop.ledger.com/products/ledger-nano-x) — The first hardware wallet with a bluetooth connection. It can store up to 100 apps simultaneously
+2. [Ledger Nano S](https://shop.ledger.com/products/ledger-nano-s) — One of the most popular Monero hardware wallets. Ledger Nano S always requires a connected cable and its storage space is only for 4 apps
+3. [Trezor model T](https://shop.trezor.io/product/trezor-model-t) — The followup to the very popular Trezor One. It features a large, color touch screen and best of all it has native support for Monero 
+
+
+

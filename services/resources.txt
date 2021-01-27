@@ -1,0 +1,14 @@
+*Guides and tutorials:*
+1. [GetMonero](https://getmonero.org) — Monero official site
+2. [Monero.How](https://monero.how) — Monero tutorials, statistics, charts and resources
+3. [Monerooutreach](https://monerooutreach.org) — Independent workgroup of the decentralized Monero community
+4. [MoneroStuff](https://monerostuff.com) — For all your Monero needs
+5. [Monero-GUI-Guide](https://github.com/monero-ecosystem/monero-GUI-guide/blob/master/monero-GUI-guide.md) — Guide for Monero GUI wallet
+
+*Community:*
+1. [r/Monero](https://www.reddit.com/r/Monero) — Monero subreddit
+2. [MoneroCommunityWorkgroup](https://www.youtube.com/c/MoneroCommunityWorkgroup) — MCW YouTube channel
+3. [MoneroTalk](https://www.monerotalk.live) — Monero Talk broadcasts weekly conversations
+4. [Monerobase](https://monerobase.com) — Monero DevMeetings
+5. [Monero StackExchange](https://monero.stackexchange.com) — Q&A about Monero cryptocurrency
+

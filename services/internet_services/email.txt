@@ -1,0 +1,8 @@
+1. [Tutanota](https://tutanota.com) — Monero accepted only for donations
+2. [NomadPostbox](https://nomadpostbox.com) — Physical to virtual mail delivery for remote workers
+3. [Privatemail](https://privatemail.com) — Encrypt your email and online files
+4. [TorGuard](https://torguard.net) — OpenPGP webmail platform
+5. [ImprezaHost](https://impreza.host) — Email service for small and corporate business
+6. [AbacoHosting](https://abacohosting.com) — Reliable and affordable business email
+7. [Anonymousmail.me](https://anonymousemail.me) — Send unlimited anonymous emails with attachments, track opening in real-time, and more
+8. [Hiri.com](https://hiri.com) — Email client for Windows, Mac and Linux

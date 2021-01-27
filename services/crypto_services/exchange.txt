@@ -1,0 +1,27 @@
+*Centralized exchanges:*
+1. [Kraken](https://kraken.com) — Veteran US based cryptocurrency exchange that supplies an advanced trading platform
+2. [Bitfinex](https://www.bitfinex.com) — One of the most popular cryptocurrency exchange. Deposits in dollar and crypto 
+3. [AnycoinDirect](https://anycoindirect.eu) — Purchase with SEPA, Sofort, Trustpay, MyBank, IDEAL, Giropay, EPS or Bancontact/Mistercash
+4. [Orillia](https://orillia.be) — Buy Monero through SEPA or Wire Transfer
+5. [Bitnovo](https://bitnovo.com) — Allows users to buy/sell cryptocurrency using vouchers, ATMs and prepaid cards
+6. [Binance](https://binance.com) — It's possible to buy Monero only by purchasing a listed stablecoin
+7. [Poloniex](https://poloniex.com) — Supported pairs: XMR/BTC, XMR/USDT
+8. [Changelly](https://changelly.com) — Buy easily Monero for dollars or euro with a credit card
+9. [Bittrex](https://global.bittrex.com) — Monero trading allowed through BTC deposits  
+
+*Decentralized exchanges:*
+1. [LocalMonero](https://localmonero.co) — P2P and privacy-focused Monero marketplace. No account required. Several payment methods
+2. [Bisq](https://bisq.network) — Fully open-source desktop application that synchronizes with Bitcoin Mainnet by using Tor
+
+*Instant crypto exchanges (no KYC required):*
+1. [MorphToken](https://morphtoken.com) — Operates without user accounts, allowing to quickly exchange multiple assets
+2. [ChangeHero](https://changehero.io) — Allows easy and anonymous instant exchange of any cryptocurrency
+3. [Evonax](https://evonax.com) — No fees, no registration. Instant transfer
+4. [TradeOgre](https://tradeogre.com) — Only a valid email address for registration
+5. [SimpleSwap](https://simpleswap.io) — Free from sign-up and limitless swaps at good rates
+6. [Godex](https://godex.io) — Anonymous exchange service that does not require personal data
+7. [Xchange.me](https://xchange.me) — Also available on Tor network. Provides fully open API to use terminal only
+8. [Exolix](https://exolix.com) — Secure and anonymous crypto exchange service with fixed rates 
+9. [Kaiserex](https://www.kaiserex.com) — Lithuanian company with 30+ cryptocurrency markets and multiple OTC connections
+10. [InstaEx](https://instaex.io) — Instant transactions, no KYC or mail required, no limits
+11. [FixedFloat](https://fixedfloat.com) — Fully automated digital asset exchange with lightning network 

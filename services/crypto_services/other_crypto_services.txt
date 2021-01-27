@@ -1,0 +1,6 @@
+1. [iCryptoNode](https://icryptonode.com) — Raspberry Pi Bitcoin and Monero node hardware
+2. [General Bytes ATM](https://generalbytes.com) — Czech company specialized in Bitcoin and cryptocurrency ATMs
+3. [XMR.to](https://xmr.to) — Secure and private service to receive BTC from reputable exchanges
+4. [CryptoRadar](https://cryptoradar.co) — Marketplace comparison website
+5. [Bitwala](https://bitwala.com) — The all-in-one bank account for euro and crypto 
+6. [Privacypros](https://privacypros.io) —  Physical backup device for the offline storage of crypto private keys

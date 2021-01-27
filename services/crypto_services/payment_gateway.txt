@@ -1,0 +1,16 @@
+1. [CoinPayments](https://www.coinpayments.net) — Payment gateway for Bitcoin and hundreds of altcoins, including a multi-coin wallet supporting over 1300 cryptocurrencies
+2. [Globee](https://globee.com) — Global payments made easy. Get paid in crypto by accepting Monero
+3. [NOWPayments](https://nowpayments.io) — Non-custodial cryptocurrency payment gateway with invoice and API support
+4. [CryptoWoo](https://www.cryptowoo.com) — Ready made CMS plugins, no redirection to third parties, real time exchange rates
+5. [SwirlPay](https://swirlpay.io) — P2P crypto payments. No middleman, direct transfers between customer and merchant
+6. [Living Room of Satoshi](https://livingroomofsatoshi.com) — Pay any bill with Monero and other cryptos
+7. [Bidali](https://www.bidali.com) — Earn up to 10% cash back instantly on purchases. Send and receive money for free
+8. [Plisio](https://plisio.net) — Payment Service Provider (PSP) for merchants accepting crypto. No proof of identity needed
+9. [MyCryptoCheckout](https://mycryptocheckout.com) — Cryptocurrency payments for Wordpress. 0% transaction fees, no KYC or product restrictions, easy to setup
+10. [B2BinPay](https://b2binpay.com) — All-in-one crypto payment platform: send, receive, store, exchange and accept cryptocurrencies in a matter of minutes 
+11. [Vigla](https://vigla.biz) — Non-custodial payment processor for those who want to accept private payments using Monero
+12. [CryptAPI](https://cryptapi.io) — Hassle-free and straight-forward payment integration across multiple cryptocurrencies and ERC-20 tokens
+13. [CDPay](https://www.cdpay.eu) — Designed for any custom e-commerce portals who do not want to keep a transaction history or create their own payment system with electronic wallets 
+14. [MoneroIntegrations](https://monerointegrations.com) — Open source project started by Monero community members with the goal of making it easy for merchants to accept the Monero cryptocurrency on their ecommerce online shops 
+15. [CoinsPaid](https://coinspaid.com) — iGaming crypto payment gateway powered by SoftSwiss that offers the customers with a high-end and reliable solutions  
+16. [BPay](https://bpay.io) — Australian company allowing instant payments in local currency transferred immediately to the bank account
